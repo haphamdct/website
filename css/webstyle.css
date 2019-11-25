@@ -1,0 +1,67 @@
+    	.container{
+    		border: 1px ;
+	    	height: 3913px;
+	    	width: 1113px;
+    	}
+    	.icon{
+    		padding-top:12px;
+    		padding-left: 244px;
+    	}
+		.topmenu{
+			width: 1113px;
+			height: 43px;
+		}
+		.logo-quangcao{
+			width: 1113px;
+			height: 132px;
+		}
+		.col-md-4{
+			padding-left: 0px ;
+		}
+		.col-md-12{
+			padding: 0px 0px;
+		}
+		.logo{
+			padding-bottom: 58px;
+			padding-top: 45px;
+			width: 205px;
+			height: 132px;
+		}
+		.ads{
+			width: 700px;
+			height: 100px;
+			padding-left: 25px;
+			padding-bottom: 19px;
+			padding-top: 20px;
+		}
+		.date{
+			width: 170px;
+			height: 100%;
+			text-align: center;
+		    background-color: #d62824;
+		    padding-top: 12px;
+		}
+		.iconmMXH{
+			padding-left: 10px;	
+		}
+		.lienhe{
+			padding-top:12px ;
+		}
+		.menu{
+			font-size: 13px;
+			font-family: arial;
+			font-weight: bold;
+			text-transform: uppercase;
+			color: #ffffff;
+		}
+		.menu a{
+		    color: #ffffff;
+		    text-decoration: none;
+		    background-color: transparent;
+		}
+		.col-md-6{
+			padding-left:0;
+		}
+		.bg-dark{
+			background-color: #1f2023!important;
+		}
